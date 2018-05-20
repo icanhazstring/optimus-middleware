@@ -1,7 +1,7 @@
 # expressive-optimus-middleware
 PSR-15 compliant middleware using jenssegers/optimus
 
-[![Build Status](https://api.travis-ci.org/icanhazstring/expressive-optimus-middleware.svg?branch=master)](https://travis-ci.org/icanhazstring/expressive-optimus-middleware)
+[![Build Status](https://api.travis-ci.org/icanhazstring/optimus-middleware.svg?branch=master)](https://travis-ci.org/icanhazstring/optimus-middleware)
 
 ## Install
 
