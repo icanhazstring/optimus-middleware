@@ -1,5 +1,5 @@
 {
-    "name": "icanhazstring/expressive-optimus-middleware",
+    "name": "icanhazstring/optimus-middleware",
     "description": "PSR-15/PSR-7 compliant middleware using jenssegers/optimus",
     "require-dev": {
         "phpunit/phpunit": "^7.1",
