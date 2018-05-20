@@ -5,9 +5,9 @@ PSR-15 compliant middleware using jenssegers/optimus
 
 ## Install
 
-You can install the *expressive-optimus-middleware* library with composer:
+You can install the *optimus-middleware* library with composer:
 ```bash
-$ composer require icanhazstring/expressive-optimus-middleware
+$ composer require icanhazstring/optimus-middleware
 ```
 
 ## Configuration
