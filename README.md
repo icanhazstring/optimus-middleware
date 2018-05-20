@@ -28,9 +28,7 @@ $aggregator = new ConfigAggregator([
     ...
     \icanhazstring\Middleware\OptimusConfigProvider::class,
     ...
-], $cacheConfig['config_cache_path']);
-
-return $aggregator->getMergedConfig();
+]);
 ```
 
 Make sure the `OptimusConfigProvider` is included before your autoload files!
